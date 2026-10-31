@@ -2,7 +2,7 @@
 
 A small experimental Chrome extension that draws a smooth circle for you in browser drawing games.
 
-> **Unofficial fan project.** Not affiliated with or endorsed by neal.fun or its creator. Made for fun and learning.
+> **Unofficial fan project.** Not affiliated with or endorsed by neal.fun or its creator. Made for people who suck (like me thats why i made this).
 
 ## What it does
 
