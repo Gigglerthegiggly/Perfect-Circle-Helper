@@ -1,6 +1,6 @@
 # Perfect Circle Helper
 
-A small experimental Chrome extension that draws a smooth, human-like circle for you in browser drawing games.
+A small experimental Chrome extension that draws a smooth, human-like circle for neal.fun's webgame, draw a perfect circle.
 
 > **Unofficial fan project.** Not affiliated with or endorsed by neal.fun or its creator. Made for fun and learning.
 
